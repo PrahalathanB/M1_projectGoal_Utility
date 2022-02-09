@@ -19,17 +19,20 @@ d) To store properly the library items in order to maintain their security.
 
 e) To enter and preserve details of the various issues and keep a track on their returns.
 
-# 4W'S and 1H:
-Who
+# 4W'S and 1H: 
+ * Who
 
 This Library Management System is an application is used by all the students, and staff who are having id's.
-What:
+
+* What:
 
 Library Management Systems is software that helps to maintain a database that is useful to enter new books & record books borrowed by the members, with the respective submission dates.
-When:
+
+* When:
 
 This Library Management System is very useful when there are large no of readers visit library to return, renewal, or take books. It is very tedious to enter the records manually so here this project come into handy.
-Where:
+
+* Where:
 
 The Library management system is nowadays essential for schools, colleges, private libraries, and other organizations. They can use this software as the purpose of books issuing and returning for renewal.
 How:
@@ -61,14 +64,22 @@ d) Online Systems require high-speed internet connectivity.
 e) Risk of computer virus.
 
 # HIGH LEVEL REQUIREMENTS:
-RID 	DESCRIPTION 	STATUS
+RID 	DESCRIPTION 
 
-HLR1 	C LANGUAGE 	IMPLEMENTED
+HLR1 	C LANGUAGE 
 
-HLR2 	OS WINDOWS 	IMPLEMENTED
+HLR2 	OS WINDOWS 	
 
-HLR3 	OS LINUX 	IMPLEMENTED
+HLR3 	OS LINUX 	
 
-HLR4 	HARDDISK 	IMPLEMENTED
+HLR4 	HARDDISK 	
 
-HLR5 	RAM 4GB 	IMPLEMENTED
+HLR5 	RAM 4GB 	
+
+# LOW LEVEL REQUIREMENTS:
+RID 	DESCRIPTION 	
+LLR1 	ADD BOOKS 	
+LLR2 	DELETE BOOKS 	
+LLR3 	SEARCH BOOKS 	
+LLR4 	ISSUE BOOKS 	
+LLR5 	VIEW BOOKS 	

@@ -3,18 +3,19 @@
  * @author your name (you@domain.com)
  * @brief 
  * @version 0.1
- * @date 2022-02-10
+ * @date 2022-02-11
  * 
  * @copyright Copyright (c) 2022
  * 
  */
 
-#ifndef   __LIBRARY_MANAGEMENT_SYSTEM_H__
+#ifndef __LIBRARY_MANAGEMENT_SYSTEM_H__
 #define __LIBRARY_MANAGEMENT_SYSTEM_H__
 
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
+
 
 /**
  * @brief structure for Book Record
